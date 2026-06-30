@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Next.js build output
+frontend/.next/
+out/
+build/
+
+# Environment variables (KEEP SECRETS SAFE!)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+frontend/.env
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
